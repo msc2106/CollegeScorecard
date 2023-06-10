@@ -3,5 +3,7 @@ CollegeScorecard
 Analyzing the USDOE College Scorecard
 
 # Data sources
-1. Full data: https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data_04192023.zip
-2. Documentation: https://collegescorecard.ed.gov/assets/CollegeScorecardDataDictionary.xlsx
+1. Full data: https://collegescorecard.ed.gov/data/
+2. Documentation: https://collegescorecard.ed.gov/data/documentation/
+3. The specific dataset used here: https://ed-public-download.app.cloud.gov/downloads/Most-Recent-Cohorts-Institution_04192023.zip
+
